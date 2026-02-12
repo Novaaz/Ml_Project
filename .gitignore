@@ -1,0 +1,10 @@
+### Python virtual environments
+venv/
+.venv/
+env/
+.env/
+
+### Project data/artifacts
+artifacts/
+dataset/
+results/
