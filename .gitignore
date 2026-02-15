@@ -8,3 +8,5 @@ env/
 artifacts/
 dataset/
 results/
+saved_models/
+report_assets/
