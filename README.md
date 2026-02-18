@@ -42,15 +42,6 @@ conda activate fruit360
 pip install -r requirements.txt
 ```
 
-**Dependencies** (see `requirements.txt`):
-- `numpy`, `pandas` — Data manipulation
-- `torch`, `torchvision` — Deep learning & transforms
-- `scikit-learn` — Classical ML (SVM, KNN, PCA, etc.)
-- `opencv-python` — Image processing
-- `scikit-image` — Advanced feature extraction (HOG, LBP, GLCM, Gabor)
-- `matplotlib`, `seaborn` — Visualization
-- `Pillow` — Image I/O
-
 ---
 
 ## V1 vs V2: Key Differences
