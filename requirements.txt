@@ -8,3 +8,5 @@ scikit-learn
 opencv-python
 scikit-image
 pandas
+scipy
+joblib
