@@ -86,6 +86,7 @@ Then **Run All Cells** in the notebook.
 ### V2 Specialized Experiments
 
 **V2 Directory** contains focused experiments on which the final notebook is based.
+
 **V1 Directory** contains early experimental work — reference only.
 
 ---
