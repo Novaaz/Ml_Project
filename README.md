@@ -86,13 +86,7 @@ Then **Run All Cells** in the notebook.
 
 ### V2 Specialized Experiments
 
-**V2 Directory** contains focused experiments:
-
-- **Exploration**: `report_eda.ipynb`, `noise_analysis.ipynb`, `unsupervised_degradation_analysis.ipynb`
-- **Model Variants**: `pca_svm_*.ipynb`, `knn_svm_*.ipynb`, `lda_svm_*.ipynb`, `stacking_*.ipynb`
-- **Robustness Testing**: `pca_svm_realistic_test_set.ipynb`, `combo_noise_test_full.ipynb`
-- **Comparison**: `UNIFIED_COMPARISON.ipynb` (side-by-side model evaluation)
-
+**V2 Directory** contains focused experiments on which the final notebook is based.
 **V1 Directory** contains early experimental work — reference only.
 
 ---
