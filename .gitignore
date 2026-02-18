@@ -13,3 +13,4 @@ report_assets/
 .github/
 report/
 roadmap.txt
+.DS_Store
