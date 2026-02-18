@@ -9,8 +9,7 @@ A comprehensive machine learning project for fruit image classification with foc
 1. [Installation & Setup](#installation--setup)
 2. [V1 vs V2: Key Differences](#v1-vs-v2-key-differences)
 3. [How to Execute](#how-to-execute)
-4. [Pipeline Overview](#pipeline-overview)
-5. [Additional Notebooks](#additional-notebooks)
+4. [Additional Notebooks](#additional-notebooks)
 
 ---
 
