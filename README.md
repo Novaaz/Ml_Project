@@ -13,7 +13,6 @@ A comprehensive machine learning project for fruit image classification with foc
 5. [How to Execute](#how-to-execute)
 6. [Pipeline Overview](#pipeline-overview)
 7. [Additional Notebooks](#additional-notebooks)
-8. [Results & Artifacts](#results--artifacts)
 
 ---
 
@@ -81,7 +80,7 @@ pip install -r requirements.txt
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ```bash
 jupyter notebook FINAL_NOTEBOOK.ipynb
@@ -174,20 +173,10 @@ Evaluation (Accuracy, Confusion Matrix, Per-Class Metrics)
 
 ---
 
-## Results & Artifacts
-
-**Saved Models** in `V2/saved_models/`:
-- `scaler_*.joblib` — StandardScaler for normalization
-- `pca_*.joblib` — PCA transformation
-- `svm_*.joblib` — Final SVM classifier
-
----
-
 ## Troubleshooting
 
 | Problem | Solution |
 |---------|----------|
-| **Dataset not found** | Re-run download cell in notebook (auto-clones from GitHub) |
 | **Out of memory** | Reduce `BATCH_SIZE` parameter |
 | **Slow execution** | Lower `AUG_RATIO` parameter |
 
